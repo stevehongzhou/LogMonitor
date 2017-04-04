@@ -1,0 +1,9 @@
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.exe.config
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.exe
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.pdb
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.exe
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.pdb
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.exe.manifest
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.application
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.exe.manifest
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.application
