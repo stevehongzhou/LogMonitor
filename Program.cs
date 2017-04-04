@@ -6,6 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//steve add comment
+
 namespace CAOLogMonitor
 {
     class Program
